@@ -1,5 +1,5 @@
 public class plant {
-    // declare the necessary global variables
+    // declare the necessary global variables and methods
     public static String hotGarden;
     public String starFruit;
     public static void space() {
