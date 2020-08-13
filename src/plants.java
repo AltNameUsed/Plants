@@ -8,7 +8,7 @@ public class plant {
     public static void main(String[] args) {
         class aChildclass extends plant {
             // declare all the things
-            String hotGarden = "A hot and warm garden for your plants here!";
+            String hotGarden = "A hot and humid garden for your plants here!";
             String starFruit = "A fresh starfruit!";
         }
         class anotherChildclass extends plant {
